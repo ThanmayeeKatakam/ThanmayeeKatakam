@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning *React,MondoDB,Node.js*
 
-- 📫 How to reach me *thanmayee1607@gmail.com*
+- 📫 How to reach me *kamakshithanmayee@gmail.com*
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
